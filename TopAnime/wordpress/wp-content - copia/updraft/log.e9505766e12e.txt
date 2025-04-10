@@ -1,0 +1,324 @@
+0000.000 (0) Opened log file at time: Tue, 25 Feb 2025 19:58:56 +0000 on http://localhost/wordpress
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.1 WP: 6.7.2 PHP: 8.2.12 (apache2handler, Windows NT ASCE 10.0 build 22621 (Windows 11) AMD64) MySQL: 10.4.32-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 67.6M | 72M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+0000.002 (0) Free space on disk containing Updraft's temporary directory: 519291.3 MB
+0000.004 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.006 (0) Semaphore (fd, wp_options) being initialised
+0000.008 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.011 (0) Set semaphore last lock (fd) time to 2025-02-25 19:58:56
+0000.012 (0) Semaphore lock (fd) complete
+0000.015 (0) Backup run: resumption=0, nonce=e9505766e12e, file_nonce=e9505766e12e begun at=1740513536 (0s ago), job type=backup
+0000.016 (0) Scheduling a resumption (1) after 300 seconds (1740513836) in case this run gets aborted
+0000.024 (0) Checking if we have a zip executable available
+0000.025 (0) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0000.026 (0) Creation of backups of directories: beginning
+0000.029 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.654 (0) Total entities for the zip file: 797 directories, 3896 files (0 skipped as non-modified), 94.6 MB
+0000.657 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 96855.3 KB, split: 409600 KB)
+0000.677 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.691 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.712 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.734 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.751 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.766 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0000.789 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0000.806 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0000.822 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0000.840 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0000.865 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 1100 files added (on-disk size: 0 KB)
+0000.882 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 1200 files added (on-disk size: 0 KB)
+0000.904 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 1300 files added (on-disk size: 0 KB)
+0000.929 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 1400 files added (on-disk size: 0 KB)
+0000.947 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 1500 files added (on-disk size: 0 KB)
+0000.972 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 1600 files added (on-disk size: 0 KB)
+0000.992 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 1700 files added (on-disk size: 0 KB)
+0001.008 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 1800 files added (on-disk size: 0 KB)
+0001.022 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 1900 files added (on-disk size: 0 KB)
+0001.037 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 2000 files added (on-disk size: 0 KB)
+0001.059 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 2100 files added (on-disk size: 0 KB)
+0001.078 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 2200 files added (on-disk size: 0 KB)
+0001.098 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 2300 files added (on-disk size: 0 KB)
+0001.114 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 2400 files added (on-disk size: 0 KB)
+0001.128 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 2500 files added (on-disk size: 0 KB)
+0001.143 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 2600 files added (on-disk size: 0 KB)
+0001.160 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 2700 files added (on-disk size: 0 KB)
+0001.176 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 2800 files added (on-disk size: 0 KB)
+0001.201 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 2900 files added (on-disk size: 0 KB)
+0001.227 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 3000 files added (on-disk size: 0 KB)
+0001.241 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 3100 files added (on-disk size: 0 KB)
+0001.256 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 3200 files added (on-disk size: 0 KB)
+0001.279 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 3300 files added (on-disk size: 0 KB)
+0001.301 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 3400 files added (on-disk size: 0 KB)
+0001.324 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 3500 files added (on-disk size: 0 KB)
+0001.346 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 3600 files added (on-disk size: 0 KB)
+0001.361 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 3700 files added (on-disk size: 0 KB)
+0001.384 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.tmp: 3800 files added (on-disk size: 0 KB)
+0089.765 (0) Creating zip file manifest (backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.list-temp.tmp)
+0089.778 (0) Successfully created zip file manifest (size: 335240)
+0090.067 (0) Created plugins zip (0) - 33069.2 KB in 90 s (367.3 KB/s) (sha1: dc9cf4bd57d95bdce51bf8f70c43d8e91f5a0b8f, sha256: bc5f0d744ecd5dd5d7960e56c1c19d5155155b519511816d78fa6eceabd5c5f3)
+0090.076 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0090.078 (0) No remote despatch: user chose no remote backup service
+0090.079 (0) Recording as successfully uploaded: backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip
+0090.081 (0) Deleting zip manifest (backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip.list.tmp)
+0090.084 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0090.086 (0) Number of backup sets in history: 0; groups (db): 1
+0090.087 (0) Number of backup sets in history: 0; groups (files): 1
+0090.089 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0090.096 (0) Beginning creation of dump of themes (split every: 400 MB)
+0090.445 (0) Total entities for the zip file: 368 directories, 1172 files (0 skipped as non-modified), 34.2 MB
+0090.447 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 34978.5 KB, split: 409600 KB)
+0090.469 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0090.490 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0090.506 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0090.531 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0090.550 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0090.581 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0090.611 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0090.625 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0090.642 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0090.657 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-themes.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0090.671 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-themes.zip.tmp: 1100 files added (on-disk size: 0 KB)
+0119.821 (0) Creating zip file manifest (backup_2025-02-25-1958_TopAnime_e9505766e12e-themes.zip.list-temp.tmp)
+0119.827 (0) Successfully created zip file manifest (size: 95207)
+0119.966 (0) Created themes zip (0) - 18941.7 KB in 29.9 s (634.2 KB/s) (sha1: bfeae2123dd59329da84414a89941387d2a65fd7, sha256: 04ad4d5df6eab41bd6af68c991805d37b37719cb33644113648c56c1eb2acf1c)
+0119.970 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0119.971 (0) No remote despatch: user chose no remote backup service
+0119.972 (0) Recording as successfully uploaded: backup_2025-02-25-1958_TopAnime_e9505766e12e-themes.zip
+0119.974 (0) Deleting zip manifest (backup_2025-02-25-1958_TopAnime_e9505766e12e-themes.zip.list.tmp)
+0119.976 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0119.978 (0) Number of backup sets in history: 0; groups (db): 1
+0119.979 (0) Number of backup sets in history: 0; groups (files): 1
+0119.980 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0119.984 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0119.985 (0) Looking for candidates to backup in: C:\xampp\htdocs\wordpress/wp-content/uploads
+0119.986 (0) finding files: 2021: adding to list (1)
+0119.987 (0) finding files: 2022: adding to list (2)
+0119.988 (0) finding files: 2025: adding to list (3)
+0119.989 (0) finding files: ai-builder: adding to list (4)
+0119.990 (0) finding files: ast-block-templates-json: adding to list (5)
+0119.991 (0) finding files: astra-docs: adding to list (6)
+0119.992 (0) finding files: astra-sites: adding to list (7)
+0119.992 (0) finding files: uag-plugin: adding to list (8)
+0119.993 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0120.036 (0) Total entities for the zip file: 17 directories, 171 files (0 skipped as non-modified), 34.6 MB
+0120.038 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 35471.3 KB, split: 409600 KB)
+0120.067 (0) Zip: backup_2025-02-25-1958_TopAnime_e9505766e12e-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0122.109 (0) Creating zip file manifest (backup_2025-02-25-1958_TopAnime_e9505766e12e-uploads.zip.list-temp.tmp)
+0122.112 (0) Successfully created zip file manifest (size: 10575)
+0122.226 (0) Created uploads zip (0) - 17737.4 KB in 2.2 s (7952 KB/s) (sha1: 0f2fa67b69ca1f83014656a02b400430b3b17696, sha256: d9126009630775856719e37b66e68bdc7dfc460be69b188b3441822dacd1d31d)
+0122.230 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0122.231 (0) No remote despatch: user chose no remote backup service
+0122.232 (0) Recording as successfully uploaded: backup_2025-02-25-1958_TopAnime_e9505766e12e-uploads.zip
+0122.234 (0) Deleting zip manifest (backup_2025-02-25-1958_TopAnime_e9505766e12e-uploads.zip.list.tmp)
+0122.236 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0122.236 (0) Number of backup sets in history: 0; groups (db): 1
+0122.237 (0) Number of backup sets in history: 0; groups (files): 1
+0122.238 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0122.242 (0) No backup of mu-plugins: excluded by user's options
+0122.243 (0) Beginning backup of other directories found in the content directory (index: 0)
+0122.244 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0122.245 (0) Looking for candidates to backup in: C:\xampp\htdocs\wordpress/wp-content
+0122.246 (0) finding files: advanced-cache.php: adding to list (1)
+0122.247 (0) finding files: cache: skipping: excluded by options
+0122.248 (0) finding files: index.php: adding to list (2)
+0122.249 (0) finding files: plugins: skipping: this is the plugins directory
+0122.249 (0) finding files: themes: skipping: this is the themes directory
+0122.250 (0) finding files: updraft: skipping: this is the updraft directory
+0122.251 (0) finding files: upgrade: skipping: excluded by options
+0122.252 (0) finding files: upgrade-temp-backup: adding to list (3)
+0122.252 (0) finding files: uploads: skipping: this is the uploads directory
+0122.253 (0) finding files: wp-cache-config.php: adding to list (4)
+0122.257 (0) Total entities for the zip file: 2 directories, 3 files (0 skipped as non-modified), 0 MB
+0122.258 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 4.6 KB, split: 409600 KB)
+0122.306 (0) Creating zip file manifest (backup_2025-02-25-1958_TopAnime_e9505766e12e-others.zip.list-temp.tmp)
+0122.308 (0) Successfully created zip file manifest (size: 100)
+0122.313 (0) Created others zip (0) - 2.6 KB in 0.1 s (46.1 KB/s) (sha1: cffbb31f200a2bf8db250cb618b209b4f7df9a71, sha256: 3ba8070fb506b2a95591178b33a4fbe4c8fe955241a961370049de85f0ce1447)
+0122.316 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0122.317 (0) No remote despatch: user chose no remote backup service
+0122.318 (0) Recording as successfully uploaded: backup_2025-02-25-1958_TopAnime_e9505766e12e-others.zip
+0122.320 (0) Deleting zip manifest (backup_2025-02-25-1958_TopAnime_e9505766e12e-others.zip.list.tmp)
+0122.322 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0122.323 (0) Number of backup sets in history: 0; groups (db): 1
+0122.324 (0) Number of backup sets in history: 0; groups (files): 1
+0122.325 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0122.332 (0) Saving backup status to database (elements: 8)
+0122.334 (0) Beginning creation of database dump (WordPress DB)
+0122.335 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0122.370 (0) Table wp_options: Total expected rows (via COUNT): 321
+0122.371 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0122.410 (0) Table wp_options: Rows added in this batch (next record: 1256): 317 (uncompressed bytes in this segment=1759071) in 0.07 seconds
+0122.415 (0) Table wp_options: finishing file(s) (2, 269.7 KB)
+0122.426 (0) Table wp_users: Total expected rows (via COUNT): 1
+0122.427 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0122.429 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1170) in 0.01 seconds
+0122.433 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0122.441 (0) Table wp_usermeta: Total expected rows (via COUNT): 21
+0122.442 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0122.444 (0) Table wp_usermeta: Rows added in this batch (next record: 22): 21 (uncompressed bytes in this segment=2228) in 0.01 seconds
+0122.451 (0) Table wp_usermeta: finishing file(s) (2, 1.2 KB)
+0122.458 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 3
+0122.459 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0122.460 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 9): 3 (uncompressed bytes in this segment=2721) in 0.01 seconds
+0122.465 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 0.9 KB)
+0122.471 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0122.472 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=625) in 0.00 seconds
+0122.477 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0122.484 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 2
+0122.484 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0122.487 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=677) in 0.01 seconds
+0122.491 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0122.497 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 7
+0122.498 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0122.499 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 7): 7 (uncompressed bytes in this segment=1376) in 0.01 seconds
+0122.504 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 0.5 KB)
+0122.512 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0122.514 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=634) in 0.01 seconds
+0122.520 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0122.526 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0122.526 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0122.529 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1893) in 0.01 seconds
+0122.532 (0) Table wp_comments: finishing file(s) (2, 0.7 KB)
+0122.538 (0) Table wp_links: Total expected rows (via COUNT): 0
+0122.540 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1027) in 0.00 seconds
+0122.546 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0122.558 (0) Table wp_postmeta: Total expected rows (via COUNT): 912
+0122.559 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0122.577 (0) Table wp_postmeta: Rows added in this batch (next record: 1453): 912 (uncompressed bytes in this segment=686599) in 0.03 seconds
+0122.584 (0) Table wp_postmeta: finishing file(s) (2, 53.3 KB)
+0122.613 (0) Table wp_posts: Total expected rows (via COUNT): 233
+0122.614 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0122.652 (0) Table wp_posts: Rows added in this batch (next record: 2892): 233 (uncompressed bytes in this segment=2223820) in 0.07 seconds
+0122.657 (0) Table wp_posts: finishing file(s) (2, 201.8 KB)
+0122.662 (0) Table wp_term_relationships: Total expected rows (approximate): 71
+0122.664 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 71 (uncompressed bytes in this segment=1781) in 0.01 seconds
+0122.669 (0) Table wp_term_relationships: finishing file(s) (2, 0.6 KB)
+0122.675 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 24
+0122.675 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0122.677 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 25): 24 (uncompressed bytes in this segment=1643) in 0.01 seconds
+0122.682 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.6 KB)
+0122.689 (0) Table wp_termmeta: Total expected rows (via COUNT): 1
+0122.690 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0122.691 (0) Table wp_termmeta: Rows added in this batch (next record: 2): 1 (uncompressed bytes in this segment=701) in 0.01 seconds
+0122.695 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0122.700 (0) Table wp_terms: Total expected rows (via COUNT): 24
+0122.701 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0122.702 (0) Table wp_terms: Rows added in this batch (next record: 25): 24 (uncompressed bytes in this segment=1421) in 0.00 seconds
+0122.705 (0) Table wp_terms: finishing file(s) (2, 0.7 KB)
+0122.711 (0) Table wp_blc_filters: Total expected rows (via COUNT): 0
+0122.712 (0) Table wp_blc_filters: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=475) in 0.00 seconds
+0122.716 (0) Table wp_blc_filters: finishing file(s) (2, 0.3 KB)
+0122.721 (0) Table wp_blc_instances: Total expected rows (via COUNT): 39
+0122.721 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0122.723 (0) Table wp_blc_instances: Rows added in this batch (next record: 65): 39 (uncompressed bytes in this segment=6119) in 0.01 seconds
+0122.727 (0) Table wp_blc_instances: finishing file(s) (2, 1.4 KB)
+0122.732 (0) Table wp_blc_links: Total expected rows (via COUNT): 26
+0122.732 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0122.735 (0) Table wp_blc_links: Rows added in this batch (next record: 27): 26 (uncompressed bytes in this segment=31840) in 0.01 seconds
+0122.738 (0) Table wp_blc_links: finishing file(s) (2, 3.1 KB)
+0122.746 (0) Table wp_blc_synch: Total expected rows (approximate): 15
+0122.748 (0) Table wp_blc_synch: Rows added in this batch (next record: 1000): 15 (uncompressed bytes in this segment=1283) in 0.00 seconds
+0122.754 (0) Table wp_blc_synch: finishing file(s) (2, 0.5 KB)
+0122.759 (0) Table wp_srfm_entries: Total expected rows (via COUNT): 1
+0122.760 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0122.762 (0) Table wp_srfm_entries: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1654) in 0.01 seconds
+0122.767 (0) Table wp_srfm_entries: finishing file(s) (2, 0.8 KB)
+0122.773 (0) Table wp_yoast_indexable: Total expected rows (via COUNT): 19
+0122.773 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0122.775 (0) Table wp_yoast_indexable: Rows added in this batch (next record: 19): 19 (uncompressed bytes in this segment=14892) in 0.01 seconds
+0122.780 (0) Table wp_yoast_indexable: finishing file(s) (2, 3.1 KB)
+0122.785 (0) Table wp_yoast_indexable_hierarchy: Total expected rows (approximate): 19
+0122.787 (0) Table wp_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 19 (uncompressed bytes in this segment=1094) in 0.01 seconds
+0122.791 (0) Table wp_yoast_indexable_hierarchy: finishing file(s) (2, 0.4 KB)
+0122.796 (0) Table wp_yoast_migrations: Total expected rows (via COUNT): 24
+0122.797 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0122.799 (0) Table wp_yoast_migrations: Rows added in this batch (next record: 24): 24 (uncompressed bytes in this segment=1234) in 0.01 seconds
+0122.803 (0) Table wp_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0122.808 (0) Table wp_yoast_primary_term: Total expected rows (via COUNT): 0
+0122.810 (0) Table wp_yoast_primary_term: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=829) in 0.00 seconds
+0122.814 (0) Table wp_yoast_primary_term: finishing file(s) (2, 0.4 KB)
+0122.819 (0) Table wp_yoast_seo_links: Total expected rows (via COUNT): 7
+0122.820 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0122.821 (0) Table wp_yoast_seo_links: Rows added in this batch (next record: 8): 7 (uncompressed bytes in this segment=2053) in 0.01 seconds
+0122.825 (0) Table wp_yoast_seo_links: finishing file(s) (2, 0.7 KB)
+0122.826 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\wordpress/wp-content/updraft/backup_2025-02-25-1958_TopAnime_e9505766e12e-db.gz (line 1923, C:\xampp\htdocs\wordpress\wp-content\plugins\updraftplus\backup.php)
+0122.827 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_options.table.tmpr1257.gz (1/26/fopen): adding to final database dump
+0122.832 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_options.table.gz (2/26/fopen): adding to final database dump
+0122.833 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_users.table.tmpr2.gz (3/26/fopen): adding to final database dump
+0122.834 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_users.table.gz (4/26/fopen): adding to final database dump
+0122.835 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_usermeta.table.tmpr23.gz (5/26/fopen): adding to final database dump
+0122.836 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_usermeta.table.gz (6/26/fopen): adding to final database dump
+0122.837 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_actionscheduler_actions.table.tmpr10.gz (7/26/fopen): adding to final database dump
+0122.837 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_actionscheduler_actions.table.gz (8/26/fopen): adding to final database dump
+0122.838 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/26/fopen): adding to final database dump
+0122.839 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_actionscheduler_claims.table.gz (10/26/fopen): adding to final database dump
+0122.839 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_actionscheduler_groups.table.tmpr3.gz (11/26/fopen): adding to final database dump
+0122.840 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_actionscheduler_groups.table.gz (12/26/fopen): adding to final database dump
+0122.841 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_actionscheduler_logs.table.tmpr8.gz (13/26/fopen): adding to final database dump
+0122.842 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_actionscheduler_logs.table.gz (14/26/fopen): adding to final database dump
+0122.842 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_commentmeta.table.tmpr0.gz (15/26/fopen): adding to final database dump
+0122.843 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_commentmeta.table.gz (16/26/fopen): adding to final database dump
+0122.844 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_comments.table.tmpr2.gz (17/26/fopen): adding to final database dump
+0122.845 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_comments.table.gz (18/26/fopen): adding to final database dump
+0122.845 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_links.table.tmpr0.gz (19/26/fopen): adding to final database dump
+0122.846 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_links.table.gz (20/26/fopen): adding to final database dump
+0122.847 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_postmeta.table.tmpr1454.gz (21/26/fopen): adding to final database dump
+0122.848 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_postmeta.table.gz (22/26/fopen): adding to final database dump
+0122.849 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_posts.table.tmpr2893.gz (23/26/fopen): adding to final database dump
+0122.852 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_posts.table.gz (24/26/fopen): adding to final database dump
+0122.853 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_term_relationships.table.tmpr100001.gz (25/26/fopen): adding to final database dump
+0122.854 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_term_relationships.table.gz (26/26/fopen): adding to final database dump
+0122.854 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_term_taxonomy.table.tmpr26.gz (27/26/fopen): adding to final database dump
+0122.855 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_term_taxonomy.table.gz (28/26/fopen): adding to final database dump
+0122.856 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_termmeta.table.tmpr3.gz (29/26/fopen): adding to final database dump
+0122.857 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_termmeta.table.gz (30/26/fopen): adding to final database dump
+0122.857 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_terms.table.tmpr26.gz (31/26/fopen): adding to final database dump
+0122.858 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_terms.table.gz (32/26/fopen): adding to final database dump
+0122.858 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_blc_filters.table.tmpr0.gz (33/26/fopen): adding to final database dump
+0122.859 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_blc_filters.table.gz (34/26/fopen): adding to final database dump
+0122.860 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_blc_instances.table.tmpr66.gz (35/26/fopen): adding to final database dump
+0122.861 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_blc_instances.table.gz (36/26/fopen): adding to final database dump
+0122.862 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_blc_links.table.tmpr28.gz (37/26/fopen): adding to final database dump
+0122.863 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_blc_links.table.gz (38/26/fopen): adding to final database dump
+0122.863 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_blc_synch.table.tmpr1001.gz (39/26/fopen): adding to final database dump
+0122.864 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_blc_synch.table.gz (40/26/fopen): adding to final database dump
+0122.865 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_srfm_entries.table.tmpr2.gz (41/26/fopen): adding to final database dump
+0122.866 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_srfm_entries.table.gz (42/26/fopen): adding to final database dump
+0122.867 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_yoast_indexable.table.tmpr20.gz (43/26/fopen): adding to final database dump
+0122.868 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_yoast_indexable.table.gz (44/26/fopen): adding to final database dump
+0122.869 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_yoast_indexable_hierarchy.table.tmpr1001.gz (45/26/fopen): adding to final database dump
+0122.870 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_yoast_indexable_hierarchy.table.gz (46/26/fopen): adding to final database dump
+0122.871 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_yoast_migrations.table.tmpr25.gz (47/26/fopen): adding to final database dump
+0122.872 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_yoast_migrations.table.gz (48/26/fopen): adding to final database dump
+0122.872 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_yoast_primary_term.table.tmpr0.gz (49/26/fopen): adding to final database dump
+0122.873 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_yoast_primary_term.table.gz (50/26/fopen): adding to final database dump
+0122.874 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_yoast_seo_links.table.tmpr9.gz (51/26/fopen): adding to final database dump
+0122.875 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db-table-wp_yoast_seo_links.table.gz (52/26/fopen): adding to final database dump
+0122.904 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db.gz: finished writing out complete database file (544.2 KB)
+0122.919 (0) Total database tables backed up: 26 (backup_2025-02-25-1958_TopAnime_e9505766e12e-db.gz, size: 557378, sha1: 41714bdd695b9f0a19b2df39130632833813b55c, sha256: 20a49a3800891ca5a3b596687aa5f70c37e62b8f179e5880386678e146b8c319)
+0122.923 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-plugins.zip: plugins: This file has already been successfully processed
+0122.924 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-themes.zip: themes: This file has already been successfully processed
+0122.925 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-uploads.zip: uploads: This file has already been successfully processed
+0122.925 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-others.zip: others: This file has already been successfully processed
+0122.926 (0) backup_2025-02-25-1958_TopAnime_e9505766e12e-db.gz: db: This file has not yet been successfully uploaded: will queue
+0122.927 (0) Saving backup history. Total backup size: 68.6 MB
+0122.929 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0122.932 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0122.932 (0) No remote despatch: user chose no remote backup service
+0122.933 (0) Recording as successfully uploaded: backup_2025-02-25-1958_TopAnime_e9505766e12e-db.gz
+0122.936 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0122.937 (0) Number of backup sets in history: 1; groups (db): 1
+0122.938 (0) Examining (for databases) backup set with group_id=0, nonce=e9505766e12e, datestamp=1740513536 (Feb 25 2025 19:58:56)
+0122.939 (0) This backup set is the backup set just made, so will not be deleted.
+0122.939 (0) Number of backup sets in history: 1; groups (files): 1
+0122.939 (0) Examining (for files) backup set with nonce=e9505766e12e, datestamp=1740513536 (Feb 25 2025 19:58:56)
+0122.939 (0) This backup set is the backup set just made, so will not be deleted.
+0122.940 (0) This backup set is the backup set just made, so will not be deleted.
+0122.940 (0) This backup set is the backup set just made, so will not be deleted.
+0122.940 (0) This backup set is the backup set just made, so will not be deleted.
+0122.940 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0122.941 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0122.942 (0) Resume backup (e9505766e12e, 0): finish run
+0122.946 (0) Decremented the semaphore (fd) by 1
+0122.947 (0) Semaphore (fd) unlocked
+0122.948 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0122.950 (0) No email will/can be sent - the user has not configured an email address.
+0122.951 (0) The backup succeeded and is now complete
